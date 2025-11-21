@@ -7,7 +7,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Monoton&display=swap");
 
 /****ADDONS****/
-
+@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css");
 
 /****CHILLAX COMPONENTS****/
 @import url("https://warrayquipsome.github.io/Chillax/Components/WindowsButtons.css");
@@ -256,7 +256,7 @@ html.theme-light .timeline-UWmgAx:hover .barFill-Dhkah7 {
 
 /* Replace Wandering Cubes Spinner/loading discord image with gif*/
 span[class="inner-26JK4f"]:after {
-    background-image: url("https://multiplexurbangreen.com/images/loader.gif");
+    background-image: url("https://envs.sh/-pF.gif");
     background-size: cover;
     display: inline-block;
     width: 32px;
